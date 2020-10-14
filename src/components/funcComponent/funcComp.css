@@ -1,0 +1,12 @@
+.test {
+    display: flex;
+    justify-content: space-between;
+}
+
+.test-label {
+    flex-grow: 1;
+}
+
+.done {
+    text-decoration: line-through;
+}
